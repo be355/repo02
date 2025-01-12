@@ -1,1 +1,3 @@
-# repo02
+# Gerenciador e Modificador de Batalhões
+
+O código 
